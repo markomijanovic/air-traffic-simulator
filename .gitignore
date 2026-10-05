@@ -1,0 +1,37 @@
+# Build output and local IDE settings
+build/
+dist/
+target/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+.vs/
+.idea/
+.settings/
+.classpath
+.project
+nbproject/private/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.class
+*.o
+*.obj
+*.exe
+*.pdb
+*.log
+logs/
+# Credentials and machine-specific configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.*
+local.properties
+
+build-verified/
